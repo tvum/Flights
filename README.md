@@ -17,6 +17,10 @@ To run this program, you will need to have Processing on Eclipse. The tutorial I
 
 You can then import the project in and run the program from Eclipse IDE.
 
+================================
+
+TO NOTE:
+CAPITAL ALLOCATION: how much capital is put in each trade?
 
 ================================
 Anh Vu Lam Nguyen - vu.nguyen@skidmore.edu
